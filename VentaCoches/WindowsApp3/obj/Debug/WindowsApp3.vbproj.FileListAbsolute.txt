@@ -1,0 +1,12 @@
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\Ricki\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
